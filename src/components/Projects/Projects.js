@@ -48,8 +48,7 @@ function Projects() {
               imgPath={deezer}
               isBlog={false}
               title="Deezer Like App"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/mdoejunior/"
+              description="Dezzer Like App built using React Js, Redux and Deezer API"
               demoLink="https://mdoetech-deezer-app.netlify.app/"              
             />
           </Col>
