@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Issa Ally Mdoe </span>
             from <span className="purple text-center"> Dar es Salaam, Tanzania.</span>
-            <br />High-energy, Passionate, Solution Oriented and Problem  solver Software enginner with a  Bachelor Degree in Information System , Skilled in ReactJs, NodeJs, Firebase, APIs, Express,PHP, Python, JavaScript Frameworks. Team player with Excellent communication skills with proven ability to build and lead highly efficient teams to accomplish tasks.
+            <br />High-energy, Passionate, Solution Oriented and Problem  solver Software engineer with a  Bachelor Degree in Information System , Skilled in ReactJs, NodeJs, Firebase, APIs, Express,PHP, Python, JavaScript Frameworks. Team player with Excellent communication skills with proven ability to build and lead highly efficient teams to accomplish tasks.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
